@@ -229,7 +229,7 @@ Consultas: "Madagascar puzzle GDP per capita decline since 1960 Razafindrakoto R
 - **[INFERENCIA] Hipótesis:** (a) la productividad agrícola del arroz estancada (rendimientos por ha) con crecimiento poblacional rápido; esto es medible; (b) la ruptura urbana (Antananarivo) frente a lo rural, con un sesgo urbano de la política; (c) la caída del capital humano (calidad educativa, ver la sección 7 sobre estatura); (d) el aislamiento geográfico y los costos de transporte.
 - **[INFERENCIA] Variación discriminante:** dentro del país, entre *fokontany*/distritos: exposición a las zonas francas (textiles, AGOA dentro/fuera en 2010–2014, cuando Madagascar fue suspendido del AGOA tras el golpe de 2009), lo que permite estimar el costo de la crisis política por canal comercial; rendimiento del arroz por región × choques climáticos.
 - **[INFERENCIA] Datos:** encuestas 1-2-3 / ENEMPSI (DIAL-INSTAT), EPM, DHS Madagascar (1992, 1997, 2003-04, 2008-09, 2021), IPUMS-I (censos 1993 y 2018 si están disponibles), Afrobarometer (rondas desde 2005).
-- **Grado de rompecabezas: ALTO. Promesa: MEDIA** (pocas observaciones macro; las ganancias están en el uso de micro variación).
+- **Grado de rompecabezas: ALTO en el largo plazo y MEDIO dentro de 2001–2026** (estancamiento más que caída). **Promesa: MEDIA** (pocas observaciones macro; las ganancias están en el uso de micro variación, p. ej. la suspensión del AGOA en 2010–2014).
 
 ### Gaps
 - La serie WDI exacta no se verificó directamente.
@@ -318,7 +318,7 @@ Consultas usadas: "declining adult height women sub-Saharan Africa birth cohorts
 - **[INFERENCIA] Hipótesis candidatas:** (a) selección por supervivencia: la vacunación (EPI desde los 80) y la TRO salvan a niños con alta carga de enfermedad, lo que baja la media de los supervivientes. Esto predice que la caída de estatura es mayor justo donde la mortalidad infantil cayó más rápido; (b) choques de ingreso o precios en la adolescencia, como el colapso de los precios del café, el cacao y el algodón o la eliminación de subsidios alimentarios; (c) carga de enfermedad: VIH materno y resistencia de la malaria a la cloroquina en los 90; (d) conflicto (Ruanda 1994, Uganda, Sierra Leona); (e) artefacto de medición o muestra.
 - **[INFERENCIA] Variación que permitiría discriminar:** variación entre regiones dentro del país, por cohorte, en (i) la fecha de llegada de los programas EPI y de la resistencia a la cloroquina, (ii) los precios mundiales de los cultivos de exportación del distrito × la edad en el choque (infancia o adolescencia), (iii) los calendarios de ajuste estructural de cada país. Para probar la selección: comparar hermanos de una misma madre (DHS: historia de nacimientos + antropometría de hermanas adultas en DHS posteriores).
 - **[INFERENCIA] Datos:** DHS (estatura de mujeres y, en rondas recientes, de hombres; públicos), IPUMS-DHS, NCD-RisC (datos de país × cohorte públicos), precios de commodities (FMI), Malaria Atlas Project. Promesa: es posible un diseño "Bartik de cultivos × cohorte × región DHS".
-- **Grado de rompecabezas: ALTO. Promesa de investigación: ALTA** (datos públicos, poco tocado en economía y con relevancia para el capital humano a largo plazo).
+- **Grado de rompecabezas: ALTO. Promesa de investigación: ALTA en abstracto, pero PRIORIDAD BAJA bajo el recorte 2001–2026** (el quiebre es de cohortes anteriores a 2000).
 
 ### Gaps
 - No pude abrir Akachi y Canning (2008) ni el artículo exacto de NCD-RisC sobre el ajuste estructural; la cita está tomada del resumen del buscador.
