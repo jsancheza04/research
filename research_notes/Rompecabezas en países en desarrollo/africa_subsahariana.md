@@ -1,22 +1,27 @@
-# Rompecabezas de desarrollo humano poco explicados en África subsahariana (1985–2026)
+# Rompecabezas de desarrollo humano poco explicados en África subsahariana (foco 2001–2026)
 
-> Notas de investigación (fecha: 2026-11-04). **Advertencia de método:** WebFetch falló (dominios fuera de la red permitida, p. ej. openknowledge.worldbank.org), así que **todas las fuentes se consultaron solo a través de fragmentos del buscador ("solo buscador")**; ninguna página se abrió completa. Las cifras aquí son las que aparecen en esos fragmentos; conviene contrastarlas con la fuente primaria (DHS StatCompiler, WDI, ILOSTAT, UIS) antes de citarlas en un trabajo. Ningún URL fue inventado; todos salieron de resultados de búsqueda. Se hicieron unas 20 búsquedas, no una revisión sistemática.
+> Notas de investigación (fecha: 2026-11-04). **Alcance (actualizado):** por indicación de la usuaria, solo se priorizan los patrones cuyo movimiento, reversión o divergencia clave ocurre **entre 2001 y 2026**. Los datos anteriores aparecen solo como línea de base. Los patrones que tratan sobre todo de 1985–2000 se despriorizan (sección 7).
 >
-> Ranking (rompecabezas × promesa de investigación):
-> 1. Descenso de la estatura adulta en cohortes nacidas desde ~1970
-> 2. Sudáfrica: desempleo masivo con un sector informal "faltante"
-> 3. Brecha de género educativa invertida en África austral (Lesotho como caso extremo)
-> 4. Madagascar: PIB per cápita más bajo hoy que en 1960 sin guerra
-> 5. Ruanda: fecundidad plana 1992–2005, desplome 2005–2010 y freno posterior
-> 6. Níger / norte de Nigeria: fecundidad *deseada* extrema que casi no se mueve (y una caída de la fecundidad observada sin aumento de la anticoncepción, aún sin verificar)
+> **Advertencia de método:** WebFetch falló (dominios fuera de la red permitida, p. ej. openknowledge.worldbank.org), así que **todas las fuentes se consultaron solo a través de fragmentos del buscador ("solo buscador")**; ninguna página se abrió completa. Las cifras son las que aparecen en esos fragmentos y deben contrastarse con la fuente primaria (DHS StatCompiler, WDI, ILOSTAT, UIS). Ningún URL fue inventado; todos salieron de resultados de búsqueda. Se hicieron unas 22 búsquedas, no una revisión sistemática.
 >
-> Descartado o con prioridad baja: declive de la poligamia (Fenske 2015 tiene evidencia causal parcial), retraso del crecimiento infantil en Etiopía, urbanización sin industrialización, niños fuera de la escuela en Nigeria (ver la última sección).
+> Ranking 2001–2026 (rompecabezas × promesa de investigación):
+> 1. Sudáfrica: el desempleo sube de ~25 % a ~33 % y el sector informal sigue "faltante" (2001–2025)
+> 2. Ruanda: fecundidad plana hasta 2005, desplome 2005–2010, freno 2014–2020 y nueva caída en 2025
+> 3. Brecha de género educativa invertida en África austral, que persiste en 2001–2024 pese al colapso del empleo minero
+> 4. Níger / norte de Nigeria: fecundidad *deseada* extrema que casi no se mueve en 2003–2024 (y una posible caída de la TGF en 2012–2021 sin aumento de la anticoncepción, sin verificar)
+> 5. Madagascar: 25 años de estancamiento (2002–2024) sin guerra, con crisis políticas cíclicas
+> 6. Nigeria: tras la Educación Básica Universal (2004), la asistencia primaria se estanca y el número de niños fuera de la escuela crece (núcleo parcialmente verificado; mucha discrepancia de datos)
+> 7. (Despriorizado) Descenso de la estatura adulta en cohortes nacidas desde ~1970: el movimiento clave es anterior a 2000
+>
+> Descartado o con prioridad baja: declive de la poligamia (Fenske 2015 tiene evidencia causal parcial), retraso del crecimiento infantil en Etiopía, urbanización sin industrialización (ver la última sección).
 
 ---
 
 ## 1. Sudáfrica: un tercio de desempleo con un sector informal "faltante"
 
 ### Takeaway
+**[Nota de alcance 2001–2026]** El movimiento clave cae dentro del recorte: el desempleo sube a ~33 % en 2024–2025 (cerca de 25 % a inicios de los 2000, según el conocimiento general; no lo verifiqué en esta búsqueda) mientras el sector informal no absorbe a los desempleados.
+
 Sudáfrica tiene un desempleo oficial de ~33 % y solo ~1/3 del empleo es informal, frente a ~86 % en el promedio africano. Que los desempleados no "se refugien" en la informalidad contradice el modelo dual estándar. Las explicaciones (barreras de entrada, regulación municipal, legado del apartheid, crimen, concentración del comercio minorista) siguen sin consenso y casi sin pruebas causales. La redefinición estadística de 2025 complica todavía más el hecho.
 
 ### Cited Findings
@@ -71,7 +76,7 @@ La TGF de Ruanda casi no cambió en 13 años (6,2 → 6,1) y luego cayó 1,5 hij
 **HECHOS**
 - [HECHO] TGF DHS: 6,2 (1992), 6,1 (2005), 4,6 (2010), 4,2 (2014-15), 4,1 (2019-20), 3,7 (DHS 2025). — [NISR DHS7 booklet](https://statistics.gov.rw/sites/default/files/documents/2026-01/DHS7_booklet_V2.pdf); [New Times](https://www.newtimes.co.rw/article/32063/news/health/declining-fertility-rate-not-a-concern-now-but-could-be-in-future---expert); [PRB](https://www.prb.org/resource/unmet-need-and-demand-for-smaller-families-in-rwanda/) (solo buscador)
 - [HECHO] El uso de métodos modernos pasó de 17 % (2005) a 52 % (2010). La DHS Further Analysis "Rwanda 2010: A dramatic change in reproductive behavior" documenta caídas simultáneas en la fecundidad deseada, la fecundidad real y la mortalidad infantil. — [PRB scorecard](https://scorecard.prb.org/poppov-rwanda-unmet-need/); [Medbox](https://www.medbox.org/document/rwanda-2010-a-dramatic-change-in-reproductive-behavior) (solo buscador)
-- [HECHO relacionado] Ruanda tiene la mayor pérdida de estatura femenina por cohortes del estudio de Razak et al. (−1,4 cm) (ver la sección 1). — [PMC5947892](https://pmc.ncbi.nlm.nih.gov/articles/PMC5947892)
+- [HECHO relacionado] Ruanda tiene la mayor pérdida de estatura femenina por cohortes del estudio de Razak et al. (−1,4 cm) (ver la sección 7). — [PMC5947892](https://pmc.ncbi.nlm.nih.gov/articles/PMC5947892)
 
 **CÓMO LO PRESENTA LA PRENSA**
 - *KT Press* (dic. 2021): "More Rwandans prefer having fewer children – health survey". — [ktpress.rw](https://www.ktpress.rw/2021/12/more-rwandans-prefer-having-fewer-children-health-survey/) (solo buscador)
@@ -106,6 +111,8 @@ Consultas: "Rwanda fertility decline 2005 2010 DHS 6.1 to 4.6 explanation family
 ## 3. Brecha de género educativa invertida en África austral (Lesotho, Botswana, Namibia, Eswatini, Sudáfrica)
 
 ### Takeaway
+**[Nota de alcance 2001–2026]** El origen es histórico (anterior a 2000). El margen dentro del recorte es la **persistencia y ampliación en 2001–2024** (76 niños por cada 100 niñas en secundaria baja en 2019; niños fuera de la escuela en aumento entre 2015 y 2023), aunque el reclutamiento minero de los basotho en Sudáfrica colapsó desde los años noventa.
+
 En Lesotho y sus vecinos los varones quedan *detrás* de las mujeres en progresión escolar desde hace décadas, en contraste con la brecha a favor de los varones del resto de la región. La explicación habitual (el pastoreo de ganado) es antigua, cualitativa y no explica por qué el patrón se da también en países urbanos como Sudáfrica o Botswana.
 
 ### Cited Findings
@@ -192,6 +199,8 @@ Consultas: "Nigeria Demographic and Health Survey 2023-24 total fertility rate N
 ## 5. Madagascar: PIB per cápita más bajo hoy que en 1960, sin guerra civil
 
 ### Takeaway
+**[Nota de alcance 2001–2026]** La mayor parte de la caída ocurre entre 1971 y 2002 (de ~US$844 a ~US$407 en USD constantes de 2015). Dentro del recorte, el patrón es un **estancamiento**: ~US$407 (2002) → ~US$456 (2024), es decir, ~+12 % en 22 años (cálculo propio con las cifras citadas abajo), interrumpido por la crisis de 2009–2013 en un periodo en que la mayoría del continente creció. El rompecabezas dentro del recorte es por qué el país no sale de este estancamiento.
+
 Madagascar es casi único: en paz relativa, su PIB real per cápita en 2024 está muy por debajo del de 1960–1971. Los propios autores del libro de referencia concluyen que las teorías estándar del crecimiento "no explican" el caso y proponen una economía política de crisis recurrentes que interrumpen cada episodio de crecimiento. Es una hipótesis descriptiva y difícil de probar.
 
 ### Cited Findings
@@ -217,7 +226,7 @@ Consultas: "Madagascar puzzle GDP per capita decline since 1960 Razafindrakoto R
 **POR QUÉ LA EXPLICACIÓN ES POBRE:** "Las crisis interrumpen el crecimiento" describe la serie pero no explica por qué las crisis se repiten con esa periodicidad ni por qué los niveles no se recuperan tras cada crisis; tampoco hay un contrafactual comparable (otros países con golpes recurrentes, como Benín antes de 1990, sí crecieron).
 
 ### Inferences
-- **[INFERENCIA] Hipótesis:** (a) la productividad agrícola del arroz estancada (rendimientos por ha) con crecimiento poblacional rápido; esto es medible; (b) la ruptura urbana (Antananarivo) frente a lo rural, con un sesgo urbano de la política; (c) la caída del capital humano (calidad educativa, ver la sección 1 sobre estatura); (d) el aislamiento geográfico y los costos de transporte.
+- **[INFERENCIA] Hipótesis:** (a) la productividad agrícola del arroz estancada (rendimientos por ha) con crecimiento poblacional rápido; esto es medible; (b) la ruptura urbana (Antananarivo) frente a lo rural, con un sesgo urbano de la política; (c) la caída del capital humano (calidad educativa, ver la sección 7 sobre estatura); (d) el aislamiento geográfico y los costos de transporte.
 - **[INFERENCIA] Variación discriminante:** dentro del país, entre *fokontany*/distritos: exposición a las zonas francas (textiles, AGOA dentro/fuera en 2010–2014, cuando Madagascar fue suspendido del AGOA tras el golpe de 2009), lo que permite estimar el costo de la crisis política por canal comercial; rendimiento del arroz por región × choques climáticos.
 - **[INFERENCIA] Datos:** encuestas 1-2-3 / ENEMPSI (DIAL-INSTAT), EPM, DHS Madagascar (1992, 1997, 2003-04, 2008-09, 2021), IPUMS-I (censos 1993 y 2018 si están disponibles), Afrobarometer (rondas desde 2005).
 - **Grado de rompecabezas: ALTO. Promesa: MEDIA** (pocas observaciones macro; las ganancias están en el uso de micro variación).
@@ -228,13 +237,52 @@ Consultas: "Madagascar puzzle GDP per capita decline since 1960 Razafindrakoto R
 
 ---
 
-@@NIGERIA@@
+## 6. Nigeria: la Educación Básica Universal (UBE, 2004) no mueve la asistencia primaria y el número de niños fuera de la escuela crece (2001–2024)
+
+### Takeaway
+Pese a la ley UBE de 2004 (educación básica gratuita y obligatoria de 9 años), la asistencia neta primaria nacional se mueve poco (61 % en 2008, 71 % en 2012, ~69 % en 2014) y el número absoluto de niños fuera de la escuela en edad primaria sube de ~6,4 millones (2000) a ~9,6–10,2 millones (2020–2024). El núcleo es solo **parcialmente verificado**: parte del aumento es crecimiento demográfico y parte son cambios de metodología. El rompecabezas de fondo es por qué el norte no responde a la gratuidad.
+
+### Cited Findings
+**HECHOS**
+- [HECHO] Estimación UIS/GEM (2022, nueva metodología que combina encuestas y datos administrativos): ~20 millones de niños fuera de la escuela (de primaria a secundaria alta); 13 millones en 2010; para la edad primaria, 6,4 millones (2000) → 9,6 millones (2020). — [World Education Blog (GEM), 02-09-2022](https://world-education-blog.org/2022/09/02/nigeria-has-more-children-out-of-school-than-any-other-country-why/); [Guardian Nigeria](https://guardian.ng/news/nigeria-now-has-20-million-out-of-school-children-says-unesco) (solo buscador)
+- [HECHO] UNICEF: 18,5 millones (2022); 18,3 millones (2024), de los cuales 10,2 millones están en edad primaria y 8,1 millones en edad secundaria. — [Africanews, 13-05-2022](https://www.africanews.com/2022/05/13/18-5-million-children-in-nigeria-are-out-of-school-unicef); [NILDS](https://ir.nilds.gov.ng/handle/123456789/1746) (solo buscador)
+- [HECHO] Asistencia neta primaria nacional: 61 % (2008), 71 % (2012), 68,7 % (2014); Noroeste 50,5 %, Noreste 42,5 % (año no identificado en el fragmento). — [Dataphyte, 2020](https://dataphyte.com/investigation/2020/08/a-review-of-the-basic-education-situation-in-nigeria) (solo buscador; las series no son comparables entre fuentes, DHS vs MICS vs NEDS)
+- **DISCREPANCIAS fuertes:** UBEC citó 13,2 millones (basado en la DHS 2015); un ministro afirmó 8,6 millones, cifra que UNICEF no respalda; Africa Check muestra que la cifra de 10,5 millones (UNICEF, 5–14 años) se revisó a 8,7 millones en 2014 con nuevos datos de población, y que la afirmación de que "Nigeria tiene más niños fuera de la escuela que nadie" (BBC Africa) era falsa en su momento. — [Dubawa](https://dubawa.org/experts-sound-discordant-tunes-on-nigerias-out-of-school-children/); [Real News](https://realnewsmagazine.net/featured/nigeria-unicef-differ-number-school-children/); [Africa Check (a)](https://africacheck.org/fact-checks/spotchecks/no-new-data-shows-10-million-children-are-out-school-nigeria); [Africa Check (b)](https://africacheck.org/fact-checks/spotchecks/no-nigeria-doesnt-have-worlds-most-out-school-children-bbc-africa) (solo buscador)
+
+**CÓMO LO PRESENTA LA PRENSA**
+- *ICIR Nigeria* / *Dubawa*: "Experts sound discordant tunes over Nigeria's out-of-school children": el debate gira en torno al número, no a la causa. — [ICIR](https://www.icirnigeria.org/experts-sound-discordant-tunes-over-nigerias-out-of-school-children/) (solo buscador)
+- *ThisDay* (16-01-2020): "North-west records highest number of basic education enrolment with over 13m". El encuadre es contradictorio: el Noroeste tiene a la vez la mayor matrícula absoluta y la peor tasa. — [ThisDay](https://thisdaylive.com/index.php/2020/01/16/north-west-records-highest-number-of-basic-education-enrolment-with-over-13m) (solo buscador)
+- La prensa suele atribuirlo al sistema almajiri, a la inseguridad (secuestros escolares desde Chibok 2014) y a la pobreza (especulación en prensa).
+
+**EXPLICACIONES EXISTENTES**
+| Hipótesis | Autor | Calidad |
+|---|---|---|
+| Crecimiento demográfico que supera la expansión de la oferta | GEM/UIS 2022 | Descriptiva (en buena parte contable) |
+| Almajiri / escuelas coránicas no contadas como escolarización | Prensa y GEM | Especulación / Descriptiva (además puede ser un artefacto de medición) |
+| Inseguridad: Boko Haram y secuestros escolares | Prensa; existe literatura sobre Boko Haram y educación (no verificada en esta búsqueda) | Parcial causal (en el Noreste); no explica el Noroeste antes de 2018 |
+| Matrimonio temprano de las niñas, normas de género | Prensa | Especulación |
+
+Consultas: "Nigeria out-of-school children 10.5 million 18.3 million UIS estimate discrepancy UBE 2004 trend"; "Nigeria primary net attendance rate north west NDHS 2008 2018 stagnation despite Universal Basic Education".
+
+**POR QUÉ LA EXPLICACIÓN ES POBRE:** El debate está dominado por la cifra (8,6 frente a 20 millones) y no por el mecanismo. Nadie ha estimado el efecto de la UBE con variación en su implementación (por ejemplo, las contrapartidas estatales del fondo UBEC, que muchos estados del norte no aportaron).
+
+### Inferences
+- **[INFERENCIA] Hipótesis:** (a) la financiación de contrapartida: los fondos UBEC exigen aportes estatales del 50 % y muchos estados no los retiran, por lo que la gratuidad es nominal; (b) la demanda: el rendimiento percibido de la escuela laica frente a la coránica; (c) la oferta de calidad: maestros sin cualificación en el norte; (d) la medición: el almajiri no se cuenta.
+- **[INFERENCIA] Variación discriminante:** los fondos UBEC no retirados por estado y año (publicados por UBEC) × cohortes en la DHS/MICS; la exposición a secuestros (ACLED) por LGA; las diferencias de normas a ambos lados de la frontera entre estados del norte y del cinturón medio.
+- **[INFERENCIA] Datos:** NDHS 2003, 2008, 2013, 2018 y 2023-24; MICS 2016-17 y 2021; NEDS 2010 y 2015; General Household Survey-Panel (LSMS-ISA, público); datos de UBEC sobre fondos asignados y retirados.
+- **Grado de rompecabezas: MEDIO** (mucho es demografía y medición). **Promesa: MEDIA** (la variación en los fondos UBEC es interesante si los datos son accesibles).
+
+### Gaps
+- No verifiqué las cifras de asistencia neta por zona en los informes NDHS 2008/2018/2023-24.
+- No busqué la literatura causal sobre la UBE (p. ej., si existen trabajos tipo Osili y Long sobre la UPE de 1976, que es anterior al recorte).
 
 ---
 
 ## 7 (DESPRIORIZADO por el recorte 2001–2026). La estatura adulta deja de crecer o cae en las cohortes nacidas desde ~1970 (África subsahariana; los casos más fuertes son Ruanda, Uganda, Sierra Leona, Kenia y Níger)
 
 ### Takeaway
+**[Nota de alcance 2001–2026]** El quiebre ocurre en cohortes *nacidas* en 1965–1990, así que el movimiento clave es mayormente anterior a 2000 (aunque se mide en DHS de 2000–2015). Por eso se desprioriza. La parte dentro del recorte sería comprobar si las cohortes nacidas después de 1990–2000 se recuperan, lo cual no está verificado.
+
 Es un hecho robusto en varios conjuntos de datos: la estatura adulta media de las mujeres africanas subió hasta las cohortes de ~1960–65 y luego se estancó o bajó, justo cuando caía la mortalidad infantil. Esto va contra la relación habitual mortalidad infantil↔estatura. La explicación dominante (crisis económica y ajuste estructural de los años ochenta) es casi solo descriptiva y nadie la ha probado con variación causal.
 
 ### Cited Findings
@@ -286,11 +334,12 @@ Algunos patrones semilla tienen evidencia causal al menos parcial o no se pudier
 
 ### Cited Findings
 - **Declive de la poligamia (África occidental):** en Benín, Burkina Faso, Guinea y Senegal, más del 60 % de las mujeres casadas en 1970 vivían en uniones polígamas, frente a menos del 40 % de las casadas en 2000. Fenske (2015, *JDE*) no encuentra efecto causal de la educación moderna (con experimentos naturales en Nigeria, Zimbabue, Sierra Leona y Kenia) pero sí un efecto grande de la caída de la mortalidad infantil (diferencias en diferencias por país y experimento natural en Uganda), además de un efecto de la educación colonial y las misiones. Calidad: **parcial causal**, así que lo descarto como rompecabezas principal. Queda abierto por qué la poligamia baja *dentro* de cohortes con mortalidad similar. — [VoxEU/CEPR](https://cepr.org/voxeu/columns/african-polygamy-past-and-present); [RePEc JDE 117](https://econpapers.repec.org/RePEc:eee:deveco:v:117:y:2015:i:c:p:58-73) (solo buscador)
-- **No investigados o verificados en esta ronda (sin juicio):** el descenso del retraso del crecimiento infantil en Etiopía (existe literatura de descomposición, p. ej. Headey, que no verifiqué aquí); la urbanización sin industrialización (Gollin, Jedwab y Vollrath, 2016, "ciudades de consumo"; parcial, no verificado aquí); el aumento de niños fuera de la escuela en Nigeria (las cifras de UNICEF y UIS difieren mucho; no verificado); la "crisis de aprendizaje" en Ghana y Kenia; la *waithood* masculina en el Sahel; el aumento del matrimonio infantil en el Sahel; Addis Abeba con TGF ~1,8 (no verificado aquí).
+- **Declive de la poligamia y recorte 2001–2026:** el movimiento documentado por Fenske es por cohortes de matrimonio de 1970–2000, en su mayoría anterior al recorte, lo que es otra razón para descartarlo.
+- **No investigados o verificados en esta ronda (sin juicio):** el descenso del retraso del crecimiento infantil en Etiopía entre 2000 y 2016 (dentro del recorte; existe literatura de descomposición, p. ej. Headey, que no verifiqué aquí); la urbanización sin industrialización (Gollin, Jedwab y Vollrath, 2016, "ciudades de consumo"; parcial, no verificado aquí); la "crisis de aprendizaje" en Ghana y Kenia; la *waithood* masculina en el Sahel; el aumento del matrimonio infantil en el Sahel; Addis Abeba con TGF ~1,8 (no verificado aquí).
 
 ### Inferences
-- [INFERENCIA] Los rompecabezas 1 (estatura) y 5 (Ruanda) se conectan: Ruanda tiene la mayor caída de estatura femenina y también la caída de fecundidad más rápida, lo que sugiere estudiar juntos los choques de cohorte (genocidio, crisis cafetalera de 1989–1993) en el capital humano y la demografía.
-- [INFERENCIA] Para la estudiante, los más "tesis-ables" con datos públicos son el 1 (DHS + precios de commodities + cohortes), el 3 (IPUMS + colapso del reclutamiento minero en Lesotho) y el 2 (QLFS/NIDS + entrada de supermercados o regulación municipal).
+- [INFERENCIA] Los rompecabezas 7 (estatura) y 2 (Ruanda) se conectan: Ruanda tiene la mayor caída de estatura femenina y también la caída de fecundidad más rápida, lo que sugiere estudiar juntos los choques de cohorte (genocidio, crisis cafetalera de 1989–1993) en el capital humano y la demografía.
+- [INFERENCIA] Con el recorte 2001–2026, los más "tesis-ables" con datos públicos son el 1 (QLFS/NIDS + entrada de supermercados o regulación municipal; quiebre de definición de la QLFS de 2025), el 2 (DHS georreferenciadas de Ruanda + calendario de registro de tierras e *imihigo*) y el 3 (IPUMS + colapso del reclutamiento minero en Lesotho).
 
 ### Gaps
 - **Límite principal:** WebFetch estaba bloqueado, así que no abrí ningún PDF ni artículo; todas las cifras salen de fragmentos de buscador y deben verificarse en la fuente primaria (StatCompiler DHS, WDI, ILOSTAT, UIS).
