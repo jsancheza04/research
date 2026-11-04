@@ -97,7 +97,7 @@ May--Jul 2020 & DANE (via press) & 15--28, broad & 33\% (COVID peak) \\
 2022 & \citet{oecd2022} & 18--24, OECD & 27.1\%; 67\% women \\
 2023 & \citet{lee99} & 15--28, \emph{strict} (not seeking work) & 13.8\% (DANE broad: 22\%) \\
 Q1 2024 & \citet{ode2024} & 15--28, Bogot\'a & 18.5\%; 64\% women; women do $\approx$30 h/week unpaid work \\
-1984--2024 & \citet{lasso2026} & 15--24, seven cities & fell 6.8 pp to 18.2\%; $\approx$5\% in high- vs.\ $\approx$40\% in low-income households \\
+1984--2024 & \citet{lasso2026} & 15--24, seven cities & fell $\approx$7 pp to 17--18\% in 2024 (the paper reports both 18.2\% and 17.2\%); $\approx$5\% in top- vs.\ $\approx$40\% in bottom-quintile households \\
 2016--2023 & \citet{ilo2024col} & 15--28 & women/men ratio fell from 2.4 to 1.9 \\
 Dec 2025--Feb 2026 & \citet{dane2026} series & 15--28, broad & 24.2\% (2.67 M); 66\% women \\
 Jun--Aug 2026 & \citet{dane2026} & 15--28, broad & $\approx$21\% (2.33 M of 11.07 M) \\
@@ -106,7 +106,7 @@ Jun--Aug 2026 & \citet{dane2026} & 15--28, broad & $\approx$21\% (2.33 M of 11.0
 \par\smallskip\raggedright\footnotesize Notes: ``Broad'' = not studying and not employed (includes the unemployed); ``strict'' = also not seeking work. Press-reported DANE figures should be checked against the bulletins. Rolling quarters are seasonal (December--February is the highest), so only like-for-like quarters should be compared.
 \end{table}
 
-Four regularities emerge \likely: (i) roughly two women per man; (ii) a steep income gradient; (iii) a sharp jump in the rate between ages 16 and 18 and strong persistence \citep{lasso2026}; and (iv) a territorial gradient, from about 18\% in Bogot\'a to 27--29\% in Cartagena, with Valledupar and Riohacha reported as the highest cities.
+Four regularities emerge \likely: (i) roughly two women per man; (ii) a steep income gradient; (iii) a sharp jump in the rate between ages 16 and 18, after which the cohort NINI \emph{share} remains above 15\% \citep{lasso2026}, which does not by itself show that the same individuals remain NINI; and (iv) a territorial gradient, from about 18\% in Bogot\'a to 27--29\% in Cartagena, with Valledupar and Riohacha reported as the highest cities.
 
 \subsection{Institutional context}
 
@@ -198,7 +198,8 @@ The GEIH is a repeated cross-section. A stable 21\% rate is consistent both with
 \begin{itemize}
 \item Roughly two in three NINIs are women, in every source \fact.
 \item Female NINIs are associated with early partnership, children under five and domestic work; male NINIs with job search \fact\ (correlational) \citep{ochoa2015,lopez2020,lenis2021}.
-\item The rate jumps between ages 16 and 18, the state is persistent, and having been NINI at 16--22 is associated with worse employment outcomes about 20 years later (lower employment for men, less salaried work for women) \fact\ (correlational) \citep{lasso2026}.
+\item The rate jumps from about 5\% to 22\% between ages 16 and 18; afterwards the cohort NINI share stays high. Cohorts with higher NINI shares at 16--22 show lower employment (men) and less salaried work (women) at 36--42 \fact\ (cohort-level, correlational) \citep{lasso2026}.
+\item The NINI rate is countercyclical, peaking in 1999 and 2020 \fact\ \citep{lasso2026}.
 \item The rate is about 5\% in high-income and 40\% in low-income households \fact\ \citep{lasso2026}.
 \end{itemize}
 
@@ -233,6 +234,40 @@ Question & Candidate hypotheses & Variation that could discriminate & Data \\
 \endgroup
 
 % ==================================================================
+\section{Why do young people become NINIs? Competing explanations}\label{sec:why}
+% ==================================================================
+
+The existing evidence describes \emph{who} and \emph{when}, but not \emph{why}. Explanations in the Colombian literature are either restatements of the definition (``low tertiary coverage and low labour insertion''), mechanisms borrowed from other countries, or correlations with aggregate variables (Section~\ref{sec:lasso}). The research question we propose is therefore explicitly causal: \emph{which mechanisms move young Colombians into, and keep them in, NINI status, and do they differ by sex?}
+
+The strategy is to state competing explanations and, for each, a prediction that the others do not share. Table~\ref{tab:why} is the core of the project. All entries are hypotheses \spec\ until tested.
+
+\begingroup\small
+\begin{longtable}{P{2.8cm}P{5.0cm}P{4.4cm}P{2.6cm}}
+\caption{Competing explanations and discriminating predictions}\label{tab:why}\\
+\toprule
+Explanation & Prediction that sets it apart & Variation / test & Data \\
+\midrule
+\endfirsthead
+\toprule
+Explanation & Prediction that sets it apart & Variation / test & Data \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\textbf{E1. Liquidity constraints} (the central bank paper's main interpretation) & NINI rises when household income falls around graduation; falls when tuition becomes free or youth transfers start; effect concentrated in low-SES youth who graduated (not dropouts). & Free tuition in public higher education; SISBEN cut-offs of youth transfers (RD); household income shocks at 16--18. & GEIH, SPADIES, SISBEN \\
+\textbf{E2. Low perceived returns or misinformation} & NINI responds to local returns to tertiary education and to information, not to income. & City-level college premium over time; distance to tertiary supply; information interventions. & GEIH, SNIES \\
+\textbf{E3. Weak youth labour demand and legal-age barriers} & The 16--18 jump is concentrated among graduates who are still under 18; NINI responds to local youth labour demand and to the bite of the minimum wage. & Age at graduation (date of birth vs.\ school-entry cut-off); Bartik demand shocks by city; minimum-wage bite (Kaitz index) by city. & Saber 11, GEIH \\
+\textbf{E4. Care, motherhood and early partnership} & Female NINI is concentrated in ``household chores''; rises sharply after first birth or union; falls when childcare supply expands. & Event study around first birth; staggered expansion of early-childhood centres (CDI); ENUT care hours. & GEIH, ENUT, ENDS, vital statistics \\
+\textbf{E5. School quality and dropout} & NINI concentrated among those who leave before completing secondary; responds to school-level shocks (teacher supply, school day). & Completed level; school-level shocks (full school day, teacher hiring). & SIMAT, GEIH \\
+\textbf{E6. Training supply and fit} & NINI falls where and when vocational training supply (SENA places, articulation with upper secondary) expands. & Staggered SENA and articulation rollout across municipalities and schools (Section~\ref{sec:policy}). & SENA, SIMAT, GEIH \\
+\textbf{E7. Discouragement or preferences} & Inactive youth report wanting to work but not searching; no response to income, demand or supply shocks. & Reason for not searching; heterogeneity across shocks. & GEIH \\
+\textbf{E8. Measurement} & Gaps shrink under the strict definition, when care is counted, or when coverage is national. & Recompute under each definition (Table~\ref{tab:defs}). & GEIH, ENUT \\
+\end{longtable}
+\endgroup
+
+\paragraph{First step.} Before any causal design, the descriptive decomposition (Section~\ref{sec:plan}) plus an individual-level model of NINI status by type---which the central bank paper does not estimate---already rules some explanations in or out. For example, if most female NINIs are in the care group and the jump at 16--18 is concentrated among graduates under 18, E4 and E3 deserve causal designs before E1.
+
+% ==================================================================
 \section{Literature review}\label{sec:lit}
 % ==================================================================
 
@@ -253,7 +288,7 @@ Study & Data and period & Method & Main findings \\
 \endhead
 \bottomrule
 \endfoot
-\citet{lasso2026} & Harmonised household surveys, 1984--2024, seven cities, ages 15--24 & Pseudo-panel of synthetic cohorts (correlational) & 1 in 5 is NINI; rate accelerates at 16--18; persistent; NINI at 16--22 associated with lower employment (men) and less salaried work (women) $\sim$20 years later; 5\% vs.\ 40\% by income. Most relevant paper. \\
+\citet{lasso2026} & Spliced DANE household surveys (ENH, ECH, GEIH), 1984--2024, seven metro areas, ages 12--40 & Synthetic cohorts; age-period-cohort decomposition; aggregate first differences; cohort-level ``scarring'' regression (correlational) & 1 in 5 is NINI; rate jumps at 16--18; cohort share stays high; countercyclical; 5\% vs.\ 40\% by income quintile; cohort NINI share at 16--22 associated with lower employment (men) and less salaried work (women) at 36--42. Most relevant paper; see Section~\ref{sec:lasso}. \\
 \citet{sanchez2021} & DANE household survey (year \verify), ages 14--28 & Multinomial logit & 2.7 M NINIs; gender bias against women; parental education and lower household unemployment reduce the probability. \\
 \citet{lopez2020} & Household surveys 2015--2018 & Multinomial logit & 25\% of women vs.\ 8\% of men; children under 5 and being partnered matter most. Most direct on the care channel. \\
 \citet{hernandez2016} & GEIH Q3 2012, ages 15--19 & Multinomial logit by sex, three NINI types & Strong gender differentiation; separates job-seeking, home-care and other NINIs. \\
@@ -267,6 +302,29 @@ Study & Data and period & Method & Main findings \\
 \citet{bernal2019} & Bogot\'a, ages 15--24 & Descriptive & 2 in 3 NINIs are women; 1 in 5 women aged 15--24 is already a mother. \\
 \end{longtable}
 \endgroup
+
+\subsection{A closer look at \citet{lasso2026}}\label{sec:lasso}
+
+Because it is the most complete Colombian study, and the natural benchmark for this project, we reviewed it in full.
+
+\paragraph{What it does.} It builds synthetic cohorts from DANE household surveys for the seven main metropolitan areas, 1984--2024, splicing four survey designs (ENH 1984--1999, ECH 2000--2006, GEIH 2006--2020, new GEIH 2021--) by reweighting to population back-projections. It (i) tracks cohort trajectories in four and eight activity categories, including a strict ``Ninini'' category (not studying, not working, not searching), by sex and by income quintile; (ii) decomposes each category into age, cohort and period effects following \citet{deaton2019}, with period effects constrained to be orthogonal to a linear trend; (iii) regresses changes in cohort NINI rates across age groups on aggregate community and macroeconomic variables (36 observations per regression); and (iv) relates labour outcomes at ages 36--42 to the cohort's NINI share 20 years earlier, following \citet{cruces2012} (147 cohort-age-year cells).
+
+\paragraph{Main results.} The age effect for NINI status rises from about 5\% to 22\% between 16 and 18; the cohort effect for NINI is stable since the early-1970s cohorts because rising ``only studies'' is offset by falling ``only works''; the period effect is countercyclical; the female NINI rate stays above 20\% after age 17 but falls across cohorts; and the bottom-quintile rate is about 40\% versus 5\% in the top quintile.
+
+\paragraph{What it says about \emph{why}.} Little that is tested. (a) The main summary, ``low tertiary coverage and low labour-market insertion'', restates the definition of NINI rather than explaining it. (b) Mechanisms for women (early marriage, teen pregnancy, care) and men (dropout followed by informal work) are taken from other studies; the authors note they lack information on unpaid work. (c) Their own interpretations (liquidity constraints of poor families, added-worker behaviour in recessions, possible preference changes in Generation Z, Venezuelan migration behind the stagnation of attendance after 2017) are stated tentatively and left to ``further research''. (d) Section~6 explores correlations with national time series (GDP, inflation, life expectancy, infant mortality, inequality), which cannot discriminate among mechanisms. The paper contains no individual-level analysis.
+
+\paragraph{Limitations relevant for this project.}
+\begin{enumerate}
+\item \textbf{Stock persistence $\neq$ individual persistence.} Synthetic cohorts show that the cohort NINI share stays high, not that the same people remain NINI.
+\item \textbf{Ecological scarring.} The scarring regression relates cohort-level aggregates; with cohort and time effects, the identifying variation is the cohort's own NINI age profile between 16 and 22 mapped onto outcomes at 36--42, partly confounded with the conditions (e.g.\ the 1998--99 recession) under which a cohort was young \likely. It also controls for likely mediators (schooling, partnership, headship, young children).
+\item \textbf{Aggregate determinants.} Thirty-six observations, nine time-series regressors and some implausible signs (life expectancy raising NINI) \likely.
+\item \textbf{Care not separated}, although the surveys record ``household chores'' as main activity \verify.
+\item \textbf{Seven cities only}: 17.2\% in 2024 versus 23\% nationally in OECD data (the paper's own footnote); Caribbean and intermediate cities and rural areas are excluded.
+\item \textbf{Income quintiles are endogenous}: current household per-capita income moves with the youth's own work and household formation \likely.
+\item \textbf{APC normalisation and inference}: conclusions depend on the Deaton normalisation; clustering on seven cities is fragile; survey redesigns (2000, 2006, 2021; working age moving from 12+ to 15+) and the halved 2020 sample may load onto period or cohort effects.
+\end{enumerate}
+
+\paragraph{How this project builds on it.} We (i) replicate their seven-city series as a validation of our pipeline; (ii) extend it nationally and to 23 cities; (iii) decompose NINIs into the typology of Table~\ref{tab:typology}; (iv) estimate individual-level models; (v) measure individual transitions with linked administrative data; and (vi) use policy and local-demand variation to separate the explanations in Section~\ref{sec:why}. A suggestive pattern worth pursuing: higher cohort NINI shares 20 years earlier are associated with \emph{more} non-salaried (informal) work among women (their Table~A.6), suggesting that female scarring may operate through job quality rather than employment.
 
 \subsection{Official and institutional reports}
 
@@ -282,7 +340,7 @@ Study & Data and period & Method & Main findings \\
 
 \subsection{Latin American and international reference literature}
 
-\paragraph{Regional canon.} \citet{dehoyos2016} is the standard reference: about one in five Latin Americans aged 15--24 is NINI, 60\% come from poor or vulnerable households and two thirds are women, yet the increase of about two million NINIs over two decades was driven by men. \citet{cardenas2015} document persistence during the 2000s boom across 18 countries. \citet{novella2018} survey 15,000 youth in nine countries including Colombia. \citet{tornarolli2017} provides the longest harmonised series. The ILO's \textit{Global Employment Trends for Youth 2024} reports a global NEET rate of 20.4\% (28.1\% for women, 13.1\% for men) \citep{iloget2024}. All of this work is descriptive.
+\paragraph{Regional canon.} \citet{dehoyos2016} is the standard reference: about one in five Latin Americans aged 15--24 is NINI, 60\% come from poor or vulnerable households and two thirds are women, yet the increase of about two million NINIs over two decades was driven by men. \citet{cardenas2015} document persistence during the 2000s boom across 18 countries. \citet{behrman2014} provide the dynamic human-capital framework used by most of this literature, and \citet{szekely2015} apply a synthetic-cohort approach across the region, the template followed by \citet{lasso2026}. \citet{novella2018} survey 15,000 youth in nine countries including Colombia. \citet{tornarolli2017} provides the longest harmonised series. The ILO's \textit{Global Employment Trends for Youth 2024} reports a global NEET rate of 20.4\% (28.1\% for women, 13.1\% for men) \citep{iloget2024}. All of this work is descriptive.
 
 \paragraph{Measurement.} \citet{elder2015} argues that the NEET concept is easily misread and proposes excluding the unemployed (NLEET). \citet{eurofound2012} estimate determinants and costs in Europe. \citet{freire2021} estimate separate models for inactive and unemployed \textit{nem-nem} youth in Brazil; separating the two changes the determinants. This is the most direct methodological template for Colombia.
 
