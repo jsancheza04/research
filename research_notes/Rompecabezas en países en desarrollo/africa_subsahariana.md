@@ -14,54 +14,7 @@
 
 ---
 
-## 1. La estatura adulta deja de crecer o cae en las cohortes nacidas desde ~1970 (África subsahariana; los casos más fuertes son Ruanda, Uganda, Sierra Leona, Kenia y Níger)
-
-### Takeaway
-Es un hecho robusto en varios conjuntos de datos: la estatura adulta media de las mujeres africanas subió hasta las cohortes de ~1960–65 y luego se estancó o bajó, justo cuando caía la mortalidad infantil. Esto va contra la relación habitual mortalidad infantil↔estatura. La explicación dominante (crisis económica y ajuste estructural de los años ochenta) es casi solo descriptiva y nadie la ha probado con variación causal.
-
-### Cited Findings
-**HECHOS**
-- [HECHO] Garenne, DHS Comparative Report No. 27 (2011), con 70 encuestas DHS: la estatura media de las mujeres adultas pasó de 157,3 cm (cohorte de 1940) a 158,7 cm (cohorte de 1965) y bajó a 157,5 cm (cohorte de 1990). Las caídas son mayores en África occidental costera, África central y la mayor parte de África oriental; en los países ricos del sur de África la tendencia solo fue positiva. — [DHS CR27](https://www.dhsprogram.com/publications/publication-CR27-Comparative-Reports.cfm) (solo buscador)
-- [HECHO] Razak et al., *PLoS Medicine* (2018): 59 DHS, ~1,1 millones de mujeres de 25–49 años, cohortes de 1950–1989. Siete países tuvieron una caída de la estatura media, **todos en África subsahariana**. Ruanda tuvo la mayor pérdida: −1,4 cm (IC 95 %: −1,84 a −0,96). — [PMC5947892](https://pmc.ncbi.nlm.nih.gov/articles/PMC5947892); [PubMed 29750787](https://pubmed.ncbi.nlm.nih.gov/29750787) (solo buscador)
-- [HECHO] Moradi (2010), *Economics & Human Biology*: >200.000 mujeres de 28 países. Las cohortes de 1960 estaban comparativamente bien nutridas; desde las cohortes de 1970, la estatura se estanca o cae en casi todos los países. — [RePEc](https://econpapers.repec.org/RePEc:eee:ehbiol:v:8:y:2010:i:1:p:16-29) (solo buscador)
-- [HECHO] NCD-RisC (2016, *eLife*, "A century of trends in adult human height"), según la prensa: para los nacidos desde comienzos de los sesenta, la estatura bajó o, en el mejor caso, se mantuvo en muchos países subsaharianos. En Kenia, Níger, Ruanda, Sierra Leona y Uganda la caída fue de ~5 cm. — [eLife PDF](https://elife.elifesciences.org/content/5/e13410-download.pdf); [PMC4961475](https://pmc.ncbi.nlm.nih.gov/articles/PMC4961475) (solo buscador)
-- [HECHO] Subramanian, Özaltin y Finlay (2011, *PLoS ONE*): en 35 de 54 países de ingreso bajo y medio la estatura femenina cayó (14 países) o se estancó (21). Las ganancias se concentraron en los quintiles ricos. — [PMC3080396](https://pmc.ncbi.nlm.nih.gov/articles/PMC3080396) (solo buscador)
-- [HECHO, el núcleo del rompecabezas] Akachi y Canning (2008): en África subsahariana la caída de la mortalidad infantil **no** se tradujo en mayor estatura adulta, a diferencia de otras regiones (citado vía resumen de búsqueda; no abrí el artículo).
-- **Discrepancia:** la magnitud varía mucho según la fuente: ~1,2 cm en el agregado DHS de Garenne frente a "~5 cm" por país en la cobertura de prensa de NCD-RisC. La cifra de 5 cm viene de la prensa y no la verifiqué en las tablas de eLife. Las DHS antiguas tienen muestras pequeñas para las cohortes viejas y la estatura se mide de forma distinta entre rondas (Razak et al. lo reconocen).
-
-**CÓMO LO PRESENTA LA PRENSA**
-- *Daily Nation* (Kenia), Newsplex: "The long and short of it: How Africans have become shorter since the 1960s", fecha no verificada (~2016). Cita al economista Charles Robertson (Renaissance Capital), que atribuye la caída al bajo crecimiento de los ochenta y predice un "rebote". — [nation.co.ke](https://www.nation.co.ke/newsplex/2718262-3344466-auj3yj/index.html) (solo buscador)
-- *BusinessDay* (Nigeria): "Africans a shadow of their former selves", fecha no verificada. — [businessday.ng](https://businessday.ng/features/article/africans-a-shadow-of-their-former-selves/) (solo buscador)
-- *MyJoyOnline* (Ghana), a raíz del estudio NCD-RisC ("Dutch men confirmed as world's tallest"). — [myjoyonline](https://www.myjoyonline.com/dutch-men-confirmed-as-worlds-tallest/) (solo buscador)
-- El encuadre de la prensa es anecdótico ("los africanos encogen") y la causa se da por sentada (crisis de los ochenta).
-
-**EXPLICACIONES EXISTENTES**
-| Hipótesis | Autor | Calidad de la evidencia |
-|---|---|---|
-| Crisis económica de fines de los 70 y los 80; el PIB afecta la estatura en la primera infancia y en la adolescencia | Moradi 2010 ([RePEc](https://econpapers.repec.org/RePEc:eee:ehbiol:v:8:y:2010:i:1:p:16-29)) | Descriptiva (regresiones de panel de cohortes con PIB; sin identificación) |
-| Ajuste estructural de los años ochenta y crisis nutricional y sanitaria (sobre todo en niños rurales) | NCD-RisC, análisis de crecimiento infantil (citado en resumen de búsqueda; referencia exacta no verificada) | Descriptiva |
-| Bajo crecimiento económico de los 80 | Robertson (prensa) | Especulación en prensa |
-| Selección por mortalidad: al caer la mortalidad sobreviven niños más frágiles y más bajos | Discutido en torno a Akachi y Canning (2008); no verifiqué quién lo prueba | Especulación / Descriptiva |
-| "Enigma africano": la ganancia de estatura ocurre en la adolescencia (adultos altos para su ingreso) | Moradi y Hirvonen (2016) ([registro](https://buscador.una.edu.ni/Record/CGSpace148377)) | Descriptiva (habla del nivel, no del quiebre de tendencia) |
-
-Consultas usadas: "declining adult height women sub-Saharan Africa birth cohorts DHS stagnation study"; "Moradi height sub-Saharan Africa stagnation cohorts explanation economic crisis structural adjustment heights"; "Africans getting shorter height decline Africa news NCD-RisC 2016 eLife Uganda Sierra Leone".
-
-**POR QUÉ LA EXPLICACIÓN ES POBRE:** "Crisis de los ochenta" es una serie de tiempo regional con un solo quiebre: no separa el ingreso de la selección por mortalidad, del VIH, de la expansión de la malaria resistente a la cloroquina, de la caída del gasto en salud ni de los cambios en la medición. Además no explica por qué Ruanda o Uganda caen más que otros países con crisis parecidas.
-
-### Inferences
-- **[INFERENCIA] Hipótesis candidatas:** (a) selección por supervivencia: la vacunación (EPI desde los 80) y la TRO salvan a niños con alta carga de enfermedad, lo que baja la media de los supervivientes. Esto predice que la caída de estatura es mayor justo donde la mortalidad infantil cayó más rápido; (b) choques de ingreso o precios en la adolescencia, como el colapso de los precios del café, el cacao y el algodón o la eliminación de subsidios alimentarios; (c) carga de enfermedad: VIH materno y resistencia de la malaria a la cloroquina en los 90; (d) conflicto (Ruanda 1994, Uganda, Sierra Leona); (e) artefacto de medición o muestra.
-- **[INFERENCIA] Variación que permitiría discriminar:** variación entre regiones dentro del país, por cohorte, en (i) la fecha de llegada de los programas EPI y de la resistencia a la cloroquina, (ii) los precios mundiales de los cultivos de exportación del distrito × la edad en el choque (infancia o adolescencia), (iii) los calendarios de ajuste estructural de cada país. Para probar la selección: comparar hermanos de una misma madre (DHS: historia de nacimientos + antropometría de hermanas adultas en DHS posteriores).
-- **[INFERENCIA] Datos:** DHS (estatura de mujeres y, en rondas recientes, de hombres; públicos), IPUMS-DHS, NCD-RisC (datos de país × cohorte públicos), precios de commodities (FMI), Malaria Atlas Project. Promesa: es posible un diseño "Bartik de cultivos × cohorte × región DHS".
-- **Grado de rompecabezas: ALTO. Promesa de investigación: ALTA** (datos públicos, poco tocado en economía y con relevancia para el capital humano a largo plazo).
-
-### Gaps
-- No pude abrir Akachi y Canning (2008) ni el artículo exacto de NCD-RisC sobre el ajuste estructural; la cita está tomada del resumen del buscador.
-- No verifiqué si las cohortes nacidas después de 1990 ya muestran el "rebote" en los datos NCD-RisC de 2020 en adelante.
-- No encontré prensa de alto perfil (BBC, Economist o Guardian) específica sobre África; solo prensa africana.
-
----
-
-## 2. Sudáfrica: un tercio de desempleo con un sector informal "faltante"
+## 1. Sudáfrica: un tercio de desempleo con un sector informal "faltante"
 
 ### Takeaway
 Sudáfrica tiene un desempleo oficial de ~33 % y solo ~1/3 del empleo es informal, frente a ~86 % en el promedio africano. Que los desempleados no "se refugien" en la informalidad contradice el modelo dual estándar. Las explicaciones (barreras de entrada, regulación municipal, legado del apartheid, crimen, concentración del comercio minorista) siguen sin consenso y casi sin pruebas causales. La redefinición estadística de 2025 complica todavía más el hecho.
@@ -109,6 +62,47 @@ Consultas: "South Africa unemployment informal sector small puzzle Statistics So
 
 ---
 
+## 2. Ruanda: fecundidad plana entre 1992 y 2005, desplome entre 2005 y 2010 y freno posterior
+
+### Takeaway
+La TGF de Ruanda casi no cambió en 13 años (6,2 → 6,1) y luego cayó 1,5 hijos en solo 5 años (6,1 → 4,6), una de las caídas más rápidas registradas por DHS; después se frenó (4,2 → 4,1 entre 2014 y 2020) y volvió a caer a 3,7 en 2025. El margen poco explicado es la **velocidad y el momento** del cambio en las preferencias, no que haya caído: la planificación familiar explica el "cómo" (la anticoncepción pasó de 17 % a 52 %), pero no por qué la demanda cambió tan rápido.
+
+### Cited Findings
+**HECHOS**
+- [HECHO] TGF DHS: 6,2 (1992), 6,1 (2005), 4,6 (2010), 4,2 (2014-15), 4,1 (2019-20), 3,7 (DHS 2025). — [NISR DHS7 booklet](https://statistics.gov.rw/sites/default/files/documents/2026-01/DHS7_booklet_V2.pdf); [New Times](https://www.newtimes.co.rw/article/32063/news/health/declining-fertility-rate-not-a-concern-now-but-could-be-in-future---expert); [PRB](https://www.prb.org/resource/unmet-need-and-demand-for-smaller-families-in-rwanda/) (solo buscador)
+- [HECHO] El uso de métodos modernos pasó de 17 % (2005) a 52 % (2010). La DHS Further Analysis "Rwanda 2010: A dramatic change in reproductive behavior" documenta caídas simultáneas en la fecundidad deseada, la fecundidad real y la mortalidad infantil. — [PRB scorecard](https://scorecard.prb.org/poppov-rwanda-unmet-need/); [Medbox](https://www.medbox.org/document/rwanda-2010-a-dramatic-change-in-reproductive-behavior) (solo buscador)
+- [HECHO relacionado] Ruanda tiene la mayor pérdida de estatura femenina por cohortes del estudio de Razak et al. (−1,4 cm) (ver la sección 1). — [PMC5947892](https://pmc.ncbi.nlm.nih.gov/articles/PMC5947892)
+
+**CÓMO LO PRESENTA LA PRENSA**
+- *KT Press* (dic. 2021): "More Rwandans prefer having fewer children – health survey". — [ktpress.rw](https://www.ktpress.rw/2021/12/more-rwandans-prefer-having-fewer-children-health-survey/) (solo buscador)
+- *The New Times*: "Declining fertility rate not a concern now but could be in future – expert". — enlace arriba (solo buscador, fecha no verificada)
+- *allAfrica* (18-12-2025): "What stood out in Rwanda's latest health survey". — [allAfrica](https://allafrica.com/stories/202512180071.html) (solo buscador)
+- El encuadre es de éxito de política ("liderazgo del gobierno").
+
+**EXPLICACIONES EXISTENTES**
+| Hipótesis | Autor | Calidad |
+|---|---|---|
+| Compromiso gubernamental con la planificación familiar (EDPRS 2008), metas ambiciosas | PRB ([PRB](https://www.prb.org/resource/unmet-need-and-demand-for-smaller-families-in-rwanda/)) | Descriptiva |
+| Financiamiento basado en desempeño (PBF) de las clínicas | Mencionado por PRB; el PBF tiene un RCT (Basinga et al. 2011, *Lancet*) sobre servicios maternos, pero no lo verifiqué para la fecundidad | Parcial causal sobre la oferta de servicios; no sobre la TGF |
+| Educación de las mujeres jóvenes y mejoras del nivel de vida | PRB | Descriptiva |
+| Descomposición del cambio 2005–2010 en una parte explicada por covariables y un residuo | Banco Mundial, PRWP 6741 (no pude abrirlo: [OKR](https://openknowledge.worldbank.org/server/api/core/bitstreams/847d8bc0-898d-519a-88dc-698623c050b9/content)) | Descriptiva (descomposición); **no sé qué parte quedó sin explicar** |
+
+Consultas: "Rwanda fertility decline 2005 2010 DHS 6.1 to 4.6 explanation family planning program unprecedented"; "Rwanda DHS 2019-20 total fertility rate 4.1 stall after 2010 4.2 2014-15".
+
+**POR QUÉ LA EXPLICACIÓN ES POBRE:** "Voluntad política + oferta de anticonceptivos" no explica por qué la fecundidad *deseada* cayó en cinco años tras una década sin cambios, ni por qué hubo un freno entre 2014 y 2020 con el mismo régimen político. Además, Burundi, con cultura e historia parecidas, no siguió la misma trayectoria.
+
+### Inferences
+- **[INFERENCIA] Hipótesis:** (a) la presión sobre la tierra (consolidación agrícola y prohibición de la subdivisión, política de tierras de 2005; la Land Tenure Regularization de 2009–2013) que cambia el valor de los hijos varones como herederos; (b) la caída de la mortalidad infantil post-2005 (seguro *Mutuelle*) que reduce la fecundidad de reemplazo; (c) la presión de las autoridades locales (*imihigo*: contratos de desempeño con metas de planificación familiar), es decir, coerción blanda; (d) la recuperación de la nupcialidad tras el genocidio en 1995–2005 que infló temporalmente la TGF antes de 2005.
+- **[INFERENCIA] Variación discriminante:** el calendario escalonado del registro de tierras (LTR) por *sector*; las metas *imihigo* de planificación familiar por distrito; el contraste en la frontera con Burundi y la RDC (Kivu); un análisis de cohorte por historia de nacimientos (DHS) para separar efectos de tempo (nupcialidad postgenocidio) y de quantum.
+- **[INFERENCIA] Datos:** DHS 1992, 2000, 2005, 2010, 2014-15, 2019-20 y 2025 (públicos, con GPS); EICV (encuestas de hogares NISR); registros LTR (posibles por acuerdo); censos 2002, 2012 y 2022 (IPUMS-I para 2002/2012).
+- **Grado de rompecabezas: MEDIO. Promesa: ALTA** (variación administrativa rica y DHS georreferenciadas).
+
+### Gaps
+- No conozco el resultado de la descomposición del PRWP 6741 (no pude acceder).
+- No verifiqué que la TGF de Burundi cambiara poco en el mismo periodo (inferencia, no hecho).
+
+---
+
 ## 3. Brecha de género educativa invertida en África austral (Lesotho, Botswana, Namibia, Eswatini, Sudáfrica)
 
 ### Takeaway
@@ -152,87 +146,7 @@ Consultas: "Lesotho boys education gender gap reverse herding research"; "revers
 
 ---
 
-## 4. Madagascar: PIB per cápita más bajo hoy que en 1960, sin guerra civil
-
-### Takeaway
-Madagascar es casi único: en paz relativa, su PIB real per cápita en 2024 está muy por debajo del de 1960–1971. Los propios autores del libro de referencia concluyen que las teorías estándar del crecimiento "no explican" el caso y proponen una economía política de crisis recurrentes que interrumpen cada episodio de crecimiento. Es una hipótesis descriptiva y difícil de probar.
-
-### Cited Findings
-**HECHOS**
-- [HECHO] Según las cifras citadas por la prensa (serie WDI en USD constantes de 2015), el PIB per cápita bajó de US$812 (1960) a US$456 (2024). Trading Economics registra un máximo de ~US$844 en 1971 y un mínimo de ~US$407 en 2002. — [Leader Réunion](https://leaderreunion.fr/en/madagascar-18); [Trading Economics](https://it.tradingeconomics.com/madagascar/gdp-per-capita) (solo buscador; hay que verificarlo en WDI, indicador NY.GDP.PCAP.KD)
-- [HECHO] Un documento ligado al gobierno (Pacto de Soberanía Alimentaria y Resiliencia) afirma que un malgache de hoy es 41 % más pobre que uno de 1961. — [Leader Réunion](https://leaderreunion.fr/en/madagascar-18) (solo buscador)
-- [HECHO] Razafindrakoto, Roubaud y Wachsberger, *Puzzle and Paradox: A Political Economy of Madagascar* (Cambridge UP, 2020): el PIB per cápita tiene una tendencia descendente desde 1960 (el "puzzle") y cada episodio de crecimiento termina en una crisis sociopolítica (el "paradox"); el PIB per cápita era menor de US$400 en 2016. Los factores de las teorías del desarrollo "parecen impotentes" para explicarlo. — [Cambridge](https://cambridge.org/core/books/puzzle-and-paradox/malagasy-mystery-through-the-lens-of-economic-growth-and-development-theories/499155FA64D38FE30D113A229D8CC681); [DIAL-IRD](https://dial.ird.fr/publications/ouvrage/puzzle-and-paradox-a-political-economy-of-madagascar-2/) (solo buscador)
-- [HECHO] Crisis políticas en 1972, 1991, 2001–2002 y 2009–2013. — [K4D-IDS](https://k4d.ids.ac.uk/?p=1382) (solo buscador)
-- **Discrepancia:** hay una página que da US$132 para 1960 (dólares corrientes, no comparables); la descarto.
-
-**CÓMO LO PRESENTA LA PRENSA**
-- *Leader Réunion* (fecha no verificada) presenta el dato del 41 %. No encontré cobertura en BBC, *Economist* o *Guardian* en esta búsqueda (las protestas de la Generación Z de 2025 y el golpe militar de octubre de 2025 sí tuvieron cobertura internacional, pero no lo verifiqué aquí, así que va marcado como no verificado). El encuadre más común en foros es "la paradoja malgache".
-
-**EXPLICACIONES EXISTENTES**
-| Hipótesis | Autor | Calidad |
-|---|---|---|
-| Economía política: élites, crisis recurrentes que cortan el crecimiento, ausencia de pacto social | Razafindrakoto, Roubaud y Wachsberger (2020) | Descriptiva (análisis histórico y de encuestas; sin contrafactual) |
-| Crisis políticas como causa directa de las caídas | K4D-IDS | Descriptiva |
-| Socialismo de los años 70 (Ratsiraka) y nacionalizaciones | Literatura general (no verificado en esta búsqueda) | Especulación |
-
-Consultas: "Madagascar puzzle GDP per capita decline since 1960 Razafindrakoto Roubaud Wachsberger"; "Madagascar poorer today than at independence 1960 GDP per capita news analysis".
-
-**POR QUÉ LA EXPLICACIÓN ES POBRE:** "Las crisis interrumpen el crecimiento" describe la serie pero no explica por qué las crisis se repiten con esa periodicidad ni por qué los niveles no se recuperan tras cada crisis; tampoco hay un contrafactual comparable (otros países con golpes recurrentes, como Benín antes de 1990, sí crecieron).
-
-### Inferences
-- **[INFERENCIA] Hipótesis:** (a) la productividad agrícola del arroz estancada (rendimientos por ha) con crecimiento poblacional rápido; esto es medible; (b) la ruptura urbana (Antananarivo) frente a lo rural, con un sesgo urbano de la política; (c) la caída del capital humano (calidad educativa, ver la sección 1 sobre estatura); (d) el aislamiento geográfico y los costos de transporte.
-- **[INFERENCIA] Variación discriminante:** dentro del país, entre *fokontany*/distritos: exposición a las zonas francas (textiles, AGOA dentro/fuera en 2010–2014, cuando Madagascar fue suspendido del AGOA tras el golpe de 2009), lo que permite estimar el costo de la crisis política por canal comercial; rendimiento del arroz por región × choques climáticos.
-- **[INFERENCIA] Datos:** encuestas 1-2-3 / ENEMPSI (DIAL-INSTAT), EPM, DHS Madagascar (1992, 1997, 2003-04, 2008-09, 2021), IPUMS-I (censos 1993 y 2018 si están disponibles), Afrobarometer (rondas desde 2005).
-- **Grado de rompecabezas: ALTO. Promesa: MEDIA** (pocas observaciones macro; las ganancias están en el uso de micro variación).
-
-### Gaps
-- La serie WDI exacta no se verificó directamente.
-- No verifiqué la cobertura en prensa internacional ni la crisis de 2025.
-
----
-
-## 5. Ruanda: fecundidad plana entre 1992 y 2005, desplome entre 2005 y 2010 y freno posterior
-
-### Takeaway
-La TGF de Ruanda casi no cambió en 13 años (6,2 → 6,1) y luego cayó 1,5 hijos en solo 5 años (6,1 → 4,6), una de las caídas más rápidas registradas por DHS; después se frenó (4,2 → 4,1 entre 2014 y 2020) y volvió a caer a 3,7 en 2025. El margen poco explicado es la **velocidad y el momento** del cambio en las preferencias, no que haya caído: la planificación familiar explica el "cómo" (la anticoncepción pasó de 17 % a 52 %), pero no por qué la demanda cambió tan rápido.
-
-### Cited Findings
-**HECHOS**
-- [HECHO] TGF DHS: 6,2 (1992), 6,1 (2005), 4,6 (2010), 4,2 (2014-15), 4,1 (2019-20), 3,7 (DHS 2025). — [NISR DHS7 booklet](https://statistics.gov.rw/sites/default/files/documents/2026-01/DHS7_booklet_V2.pdf); [New Times](https://www.newtimes.co.rw/article/32063/news/health/declining-fertility-rate-not-a-concern-now-but-could-be-in-future---expert); [PRB](https://www.prb.org/resource/unmet-need-and-demand-for-smaller-families-in-rwanda/) (solo buscador)
-- [HECHO] El uso de métodos modernos pasó de 17 % (2005) a 52 % (2010). La DHS Further Analysis "Rwanda 2010: A dramatic change in reproductive behavior" documenta caídas simultáneas en la fecundidad deseada, la fecundidad real y la mortalidad infantil. — [PRB scorecard](https://scorecard.prb.org/poppov-rwanda-unmet-need/); [Medbox](https://www.medbox.org/document/rwanda-2010-a-dramatic-change-in-reproductive-behavior) (solo buscador)
-- [HECHO relacionado] Ruanda tiene la mayor pérdida de estatura femenina por cohortes del estudio de Razak et al. (−1,4 cm) (ver la sección 1). — [PMC5947892](https://pmc.ncbi.nlm.nih.gov/articles/PMC5947892)
-
-**CÓMO LO PRESENTA LA PRENSA**
-- *KT Press* (dic. 2021): "More Rwandans prefer having fewer children – health survey". — [ktpress.rw](https://www.ktpress.rw/2021/12/more-rwandans-prefer-having-fewer-children-health-survey/) (solo buscador)
-- *The New Times*: "Declining fertility rate not a concern now but could be in future – expert". — enlace arriba (solo buscador, fecha no verificada)
-- *allAfrica* (18-12-2025): "What stood out in Rwanda's latest health survey". — [allAfrica](https://allafrica.com/stories/202512180071.html) (solo buscador)
-- El encuadre es de éxito de política ("liderazgo del gobierno").
-
-**EXPLICACIONES EXISTENTES**
-| Hipótesis | Autor | Calidad |
-|---|---|---|
-| Compromiso gubernamental con la planificación familiar (EDPRS 2008), metas ambiciosas | PRB ([PRB](https://www.prb.org/resource/unmet-need-and-demand-for-smaller-families-in-rwanda/)) | Descriptiva |
-| Financiamiento basado en desempeño (PBF) de las clínicas | Mencionado por PRB; el PBF tiene un RCT (Basinga et al. 2011, *Lancet*) sobre servicios maternos, pero no lo verifiqué para la fecundidad | Parcial causal sobre la oferta de servicios; no sobre la TGF |
-| Educación de las mujeres jóvenes y mejoras del nivel de vida | PRB | Descriptiva |
-| Descomposición del cambio 2005–2010 en una parte explicada por covariables y un residuo | Banco Mundial, PRWP 6741 (no pude abrirlo: [OKR](https://openknowledge.worldbank.org/server/api/core/bitstreams/847d8bc0-898d-519a-88dc-698623c050b9/content)) | Descriptiva (descomposición); **no sé qué parte quedó sin explicar** |
-
-Consultas: "Rwanda fertility decline 2005 2010 DHS 6.1 to 4.6 explanation family planning program unprecedented"; "Rwanda DHS 2019-20 total fertility rate 4.1 stall after 2010 4.2 2014-15".
-
-**POR QUÉ LA EXPLICACIÓN ES POBRE:** "Voluntad política + oferta de anticonceptivos" no explica por qué la fecundidad *deseada* cayó en cinco años tras una década sin cambios, ni por qué hubo un freno entre 2014 y 2020 con el mismo régimen político. Además, Burundi, con cultura e historia parecidas, no siguió la misma trayectoria.
-
-### Inferences
-- **[INFERENCIA] Hipótesis:** (a) la presión sobre la tierra (consolidación agrícola y prohibición de la subdivisión, política de tierras de 2005; la Land Tenure Regularization de 2009–2013) que cambia el valor de los hijos varones como herederos; (b) la caída de la mortalidad infantil post-2005 (seguro *Mutuelle*) que reduce la fecundidad de reemplazo; (c) la presión de las autoridades locales (*imihigo*: contratos de desempeño con metas de planificación familiar), es decir, coerción blanda; (d) la recuperación de la nupcialidad tras el genocidio en 1995–2005 que infló temporalmente la TGF antes de 2005.
-- **[INFERENCIA] Variación discriminante:** el calendario escalonado del registro de tierras (LTR) por *sector*; las metas *imihigo* de planificación familiar por distrito; el contraste en la frontera con Burundi y la RDC (Kivu); un análisis de cohorte por historia de nacimientos (DHS) para separar efectos de tempo (nupcialidad postgenocidio) y de quantum.
-- **[INFERENCIA] Datos:** DHS 1992, 2000, 2005, 2010, 2014-15, 2019-20 y 2025 (públicos, con GPS); EICV (encuestas de hogares NISR); registros LTR (posibles por acuerdo); censos 2002, 2012 y 2022 (IPUMS-I para 2002/2012).
-- **Grado de rompecabezas: MEDIO. Promesa: ALTA** (variación administrativa rica y DHS georreferenciadas).
-
-### Gaps
-- No conozco el resultado de la descomposición del PRWP 6741 (no pude acceder).
-- No verifiqué que la TGF de Burundi cambiara poco en el mismo periodo (inferencia, no hecho).
-
----
-
-## 6. Níger y el norte de Nigeria: fecundidad deseada extrema y casi inmóvil, y una caída de la fecundidad observada sin aumento de la anticoncepción (por verificar)
+## 4. Níger y el norte de Nigeria: fecundidad deseada extrema y casi inmóvil, y una caída de la fecundidad observada sin aumento de la anticoncepción (por verificar)
 
 ### Takeaway
 El "estancamiento de la fecundidad africana" es famoso; el margen específico menos explicado es que en Níger y el noroeste de Nigeria el **número deseado** de hijos sigue siendo de 7–10, muy por encima de la fecundidad observada en muchos otros países pobres, y no cede con la educación ni con la urbanización al ritmo esperado. Además, la fecundidad observada en Níger parece haber bajado entre 2012 y 2021 aunque la anticoncepción moderna *cayó*; este hecho no está verificado.
@@ -272,6 +186,96 @@ Consultas: "Nigeria Demographic and Health Survey 2023-24 total fertility rate N
 - La TGF de Níger en el ENAFEME 2021 y la tendencia del ideal de hijos en 2021 no están verificadas.
 - No verifiqué en el informe final de la NDHS 2023-24 si el ideal de hijos en el Noroeste sube o baja.
 - No hice una búsqueda sistemática de RCTs de planificación familiar en el Sahel.
+
+---
+
+## 5. Madagascar: PIB per cápita más bajo hoy que en 1960, sin guerra civil
+
+### Takeaway
+Madagascar es casi único: en paz relativa, su PIB real per cápita en 2024 está muy por debajo del de 1960–1971. Los propios autores del libro de referencia concluyen que las teorías estándar del crecimiento "no explican" el caso y proponen una economía política de crisis recurrentes que interrumpen cada episodio de crecimiento. Es una hipótesis descriptiva y difícil de probar.
+
+### Cited Findings
+**HECHOS**
+- [HECHO] Según las cifras citadas por la prensa (serie WDI en USD constantes de 2015), el PIB per cápita bajó de US$812 (1960) a US$456 (2024). Trading Economics registra un máximo de ~US$844 en 1971 y un mínimo de ~US$407 en 2002. — [Leader Réunion](https://leaderreunion.fr/en/madagascar-18); [Trading Economics](https://it.tradingeconomics.com/madagascar/gdp-per-capita) (solo buscador; hay que verificarlo en WDI, indicador NY.GDP.PCAP.KD)
+- [HECHO] Un documento ligado al gobierno (Pacto de Soberanía Alimentaria y Resiliencia) afirma que un malgache de hoy es 41 % más pobre que uno de 1961. — [Leader Réunion](https://leaderreunion.fr/en/madagascar-18) (solo buscador)
+- [HECHO] Razafindrakoto, Roubaud y Wachsberger, *Puzzle and Paradox: A Political Economy of Madagascar* (Cambridge UP, 2020): el PIB per cápita tiene una tendencia descendente desde 1960 (el "puzzle") y cada episodio de crecimiento termina en una crisis sociopolítica (el "paradox"); el PIB per cápita era menor de US$400 en 2016. Los factores de las teorías del desarrollo "parecen impotentes" para explicarlo. — [Cambridge](https://cambridge.org/core/books/puzzle-and-paradox/malagasy-mystery-through-the-lens-of-economic-growth-and-development-theories/499155FA64D38FE30D113A229D8CC681); [DIAL-IRD](https://dial.ird.fr/publications/ouvrage/puzzle-and-paradox-a-political-economy-of-madagascar-2/) (solo buscador)
+- [HECHO] Crisis políticas en 1972, 1991, 2001–2002 y 2009–2013. — [K4D-IDS](https://k4d.ids.ac.uk/?p=1382) (solo buscador)
+- **Discrepancia:** hay una página que da US$132 para 1960 (dólares corrientes, no comparables); la descarto.
+
+**CÓMO LO PRESENTA LA PRENSA**
+- *Leader Réunion* (fecha no verificada) presenta el dato del 41 %. No encontré cobertura en BBC, *Economist* o *Guardian* en esta búsqueda (las protestas de la Generación Z de 2025 y el golpe militar de octubre de 2025 sí tuvieron cobertura internacional, pero no lo verifiqué aquí, así que va marcado como no verificado). El encuadre más común en foros es "la paradoja malgache".
+
+**EXPLICACIONES EXISTENTES**
+| Hipótesis | Autor | Calidad |
+|---|---|---|
+| Economía política: élites, crisis recurrentes que cortan el crecimiento, ausencia de pacto social | Razafindrakoto, Roubaud y Wachsberger (2020) | Descriptiva (análisis histórico y de encuestas; sin contrafactual) |
+| Crisis políticas como causa directa de las caídas | K4D-IDS | Descriptiva |
+| Socialismo de los años 70 (Ratsiraka) y nacionalizaciones | Literatura general (no verificado en esta búsqueda) | Especulación |
+
+Consultas: "Madagascar puzzle GDP per capita decline since 1960 Razafindrakoto Roubaud Wachsberger"; "Madagascar poorer today than at independence 1960 GDP per capita news analysis".
+
+**POR QUÉ LA EXPLICACIÓN ES POBRE:** "Las crisis interrumpen el crecimiento" describe la serie pero no explica por qué las crisis se repiten con esa periodicidad ni por qué los niveles no se recuperan tras cada crisis; tampoco hay un contrafactual comparable (otros países con golpes recurrentes, como Benín antes de 1990, sí crecieron).
+
+### Inferences
+- **[INFERENCIA] Hipótesis:** (a) la productividad agrícola del arroz estancada (rendimientos por ha) con crecimiento poblacional rápido; esto es medible; (b) la ruptura urbana (Antananarivo) frente a lo rural, con un sesgo urbano de la política; (c) la caída del capital humano (calidad educativa, ver la sección 1 sobre estatura); (d) el aislamiento geográfico y los costos de transporte.
+- **[INFERENCIA] Variación discriminante:** dentro del país, entre *fokontany*/distritos: exposición a las zonas francas (textiles, AGOA dentro/fuera en 2010–2014, cuando Madagascar fue suspendido del AGOA tras el golpe de 2009), lo que permite estimar el costo de la crisis política por canal comercial; rendimiento del arroz por región × choques climáticos.
+- **[INFERENCIA] Datos:** encuestas 1-2-3 / ENEMPSI (DIAL-INSTAT), EPM, DHS Madagascar (1992, 1997, 2003-04, 2008-09, 2021), IPUMS-I (censos 1993 y 2018 si están disponibles), Afrobarometer (rondas desde 2005).
+- **Grado de rompecabezas: ALTO. Promesa: MEDIA** (pocas observaciones macro; las ganancias están en el uso de micro variación).
+
+### Gaps
+- La serie WDI exacta no se verificó directamente.
+- No verifiqué la cobertura en prensa internacional ni la crisis de 2025.
+
+---
+
+@@NIGERIA@@
+
+---
+
+## 7 (DESPRIORIZADO por el recorte 2001–2026). La estatura adulta deja de crecer o cae en las cohortes nacidas desde ~1970 (África subsahariana; los casos más fuertes son Ruanda, Uganda, Sierra Leona, Kenia y Níger)
+
+### Takeaway
+Es un hecho robusto en varios conjuntos de datos: la estatura adulta media de las mujeres africanas subió hasta las cohortes de ~1960–65 y luego se estancó o bajó, justo cuando caía la mortalidad infantil. Esto va contra la relación habitual mortalidad infantil↔estatura. La explicación dominante (crisis económica y ajuste estructural de los años ochenta) es casi solo descriptiva y nadie la ha probado con variación causal.
+
+### Cited Findings
+**HECHOS**
+- [HECHO] Garenne, DHS Comparative Report No. 27 (2011), con 70 encuestas DHS: la estatura media de las mujeres adultas pasó de 157,3 cm (cohorte de 1940) a 158,7 cm (cohorte de 1965) y bajó a 157,5 cm (cohorte de 1990). Las caídas son mayores en África occidental costera, África central y la mayor parte de África oriental; en los países ricos del sur de África la tendencia solo fue positiva. — [DHS CR27](https://www.dhsprogram.com/publications/publication-CR27-Comparative-Reports.cfm) (solo buscador)
+- [HECHO] Razak et al., *PLoS Medicine* (2018): 59 DHS, ~1,1 millones de mujeres de 25–49 años, cohortes de 1950–1989. Siete países tuvieron una caída de la estatura media, **todos en África subsahariana**. Ruanda tuvo la mayor pérdida: −1,4 cm (IC 95 %: −1,84 a −0,96). — [PMC5947892](https://pmc.ncbi.nlm.nih.gov/articles/PMC5947892); [PubMed 29750787](https://pubmed.ncbi.nlm.nih.gov/29750787) (solo buscador)
+- [HECHO] Moradi (2010), *Economics & Human Biology*: >200.000 mujeres de 28 países. Las cohortes de 1960 estaban comparativamente bien nutridas; desde las cohortes de 1970, la estatura se estanca o cae en casi todos los países. — [RePEc](https://econpapers.repec.org/RePEc:eee:ehbiol:v:8:y:2010:i:1:p:16-29) (solo buscador)
+- [HECHO] NCD-RisC (2016, *eLife*, "A century of trends in adult human height"), según la prensa: para los nacidos desde comienzos de los sesenta, la estatura bajó o, en el mejor caso, se mantuvo en muchos países subsaharianos. En Kenia, Níger, Ruanda, Sierra Leona y Uganda la caída fue de ~5 cm. — [eLife PDF](https://elife.elifesciences.org/content/5/e13410-download.pdf); [PMC4961475](https://pmc.ncbi.nlm.nih.gov/articles/PMC4961475) (solo buscador)
+- [HECHO] Subramanian, Özaltin y Finlay (2011, *PLoS ONE*): en 35 de 54 países de ingreso bajo y medio la estatura femenina cayó (14 países) o se estancó (21). Las ganancias se concentraron en los quintiles ricos. — [PMC3080396](https://pmc.ncbi.nlm.nih.gov/articles/PMC3080396) (solo buscador)
+- [HECHO, el núcleo del rompecabezas] Akachi y Canning (2008): en África subsahariana la caída de la mortalidad infantil **no** se tradujo en mayor estatura adulta, a diferencia de otras regiones (citado vía resumen de búsqueda; no abrí el artículo).
+- **Discrepancia:** la magnitud varía mucho según la fuente: ~1,2 cm en el agregado DHS de Garenne frente a "~5 cm" por país en la cobertura de prensa de NCD-RisC. La cifra de 5 cm viene de la prensa y no la verifiqué en las tablas de eLife. Las DHS antiguas tienen muestras pequeñas para las cohortes viejas y la estatura se mide de forma distinta entre rondas (Razak et al. lo reconocen).
+
+**CÓMO LO PRESENTA LA PRENSA**
+- *Daily Nation* (Kenia), Newsplex: "The long and short of it: How Africans have become shorter since the 1960s", fecha no verificada (~2016). Cita al economista Charles Robertson (Renaissance Capital), que atribuye la caída al bajo crecimiento de los ochenta y predice un "rebote". — [nation.co.ke](https://www.nation.co.ke/newsplex/2718262-3344466-auj3yj/index.html) (solo buscador)
+- *BusinessDay* (Nigeria): "Africans a shadow of their former selves", fecha no verificada. — [businessday.ng](https://businessday.ng/features/article/africans-a-shadow-of-their-former-selves/) (solo buscador)
+- *MyJoyOnline* (Ghana), a raíz del estudio NCD-RisC ("Dutch men confirmed as world's tallest"). — [myjoyonline](https://www.myjoyonline.com/dutch-men-confirmed-as-worlds-tallest/) (solo buscador)
+- El encuadre de la prensa es anecdótico ("los africanos encogen") y la causa se da por sentada (crisis de los ochenta).
+
+**EXPLICACIONES EXISTENTES**
+| Hipótesis | Autor | Calidad de la evidencia |
+|---|---|---|
+| Crisis económica de fines de los 70 y los 80; el PIB afecta la estatura en la primera infancia y en la adolescencia | Moradi 2010 ([RePEc](https://econpapers.repec.org/RePEc:eee:ehbiol:v:8:y:2010:i:1:p:16-29)) | Descriptiva (regresiones de panel de cohortes con PIB; sin identificación) |
+| Ajuste estructural de los años ochenta y crisis nutricional y sanitaria (sobre todo en niños rurales) | NCD-RisC, análisis de crecimiento infantil (citado en resumen de búsqueda; referencia exacta no verificada) | Descriptiva |
+| Bajo crecimiento económico de los 80 | Robertson (prensa) | Especulación en prensa |
+| Selección por mortalidad: al caer la mortalidad sobreviven niños más frágiles y más bajos | Discutido en torno a Akachi y Canning (2008); no verifiqué quién lo prueba | Especulación / Descriptiva |
+| "Enigma africano": la ganancia de estatura ocurre en la adolescencia (adultos altos para su ingreso) | Moradi y Hirvonen (2016) ([registro](https://buscador.una.edu.ni/Record/CGSpace148377)) | Descriptiva (habla del nivel, no del quiebre de tendencia) |
+
+Consultas usadas: "declining adult height women sub-Saharan Africa birth cohorts DHS stagnation study"; "Moradi height sub-Saharan Africa stagnation cohorts explanation economic crisis structural adjustment heights"; "Africans getting shorter height decline Africa news NCD-RisC 2016 eLife Uganda Sierra Leone".
+
+**POR QUÉ LA EXPLICACIÓN ES POBRE:** "Crisis de los ochenta" es una serie de tiempo regional con un solo quiebre: no separa el ingreso de la selección por mortalidad, del VIH, de la expansión de la malaria resistente a la cloroquina, de la caída del gasto en salud ni de los cambios en la medición. Además no explica por qué Ruanda o Uganda caen más que otros países con crisis parecidas.
+
+### Inferences
+- **[INFERENCIA] Hipótesis candidatas:** (a) selección por supervivencia: la vacunación (EPI desde los 80) y la TRO salvan a niños con alta carga de enfermedad, lo que baja la media de los supervivientes. Esto predice que la caída de estatura es mayor justo donde la mortalidad infantil cayó más rápido; (b) choques de ingreso o precios en la adolescencia, como el colapso de los precios del café, el cacao y el algodón o la eliminación de subsidios alimentarios; (c) carga de enfermedad: VIH materno y resistencia de la malaria a la cloroquina en los 90; (d) conflicto (Ruanda 1994, Uganda, Sierra Leona); (e) artefacto de medición o muestra.
+- **[INFERENCIA] Variación que permitiría discriminar:** variación entre regiones dentro del país, por cohorte, en (i) la fecha de llegada de los programas EPI y de la resistencia a la cloroquina, (ii) los precios mundiales de los cultivos de exportación del distrito × la edad en el choque (infancia o adolescencia), (iii) los calendarios de ajuste estructural de cada país. Para probar la selección: comparar hermanos de una misma madre (DHS: historia de nacimientos + antropometría de hermanas adultas en DHS posteriores).
+- **[INFERENCIA] Datos:** DHS (estatura de mujeres y, en rondas recientes, de hombres; públicos), IPUMS-DHS, NCD-RisC (datos de país × cohorte públicos), precios de commodities (FMI), Malaria Atlas Project. Promesa: es posible un diseño "Bartik de cultivos × cohorte × región DHS".
+- **Grado de rompecabezas: ALTO. Promesa de investigación: ALTA** (datos públicos, poco tocado en economía y con relevancia para el capital humano a largo plazo).
+
+### Gaps
+- No pude abrir Akachi y Canning (2008) ni el artículo exacto de NCD-RisC sobre el ajuste estructural; la cita está tomada del resumen del buscador.
+- No verifiqué si las cohortes nacidas después de 1990 ya muestran el "rebote" en los datos NCD-RisC de 2020 en adelante.
+- No encontré prensa de alto perfil (BBC, Economist o Guardian) específica sobre África; solo prensa africana.
 
 ---
 
