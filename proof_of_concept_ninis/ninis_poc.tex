@@ -51,7 +51,7 @@
 \maketitle
 
 \begin{abstract}
-\noindent About one in five Colombians aged 15--28 neither studies nor works. Two thirds of them are women, even though women now outnumber men in tertiary education. Colombia also reports one of the highest NEET rates in the OECD. Yet the label ``NINI'' bundles very different situations: young mothers doing full-time unpaid care, recent high-school graduates waiting to enrol, unemployed job seekers, people with disabilities, and a residual group that is genuinely disconnected. This note (i) summarises what is known, (ii) proposes a measurement framework that decomposes the NINI stock into economically meaningful groups and separates transitory from persistent spells, (iii) lists the open questions and puzzles, (iv) reviews the academic, official and international literature, and (v) maps the available data and a first empirical step. The main finding of the literature review is that the Colombian evidence is thin and almost entirely descriptive or correlational: no study identifies causal determinants or consequences of NINI status, and no Colombian experiment uses NINI status as an outcome.
+\noindent About one in five Colombians aged 15--28 neither studies nor works. Two thirds of them are women, even though women now outnumber men in tertiary education. Colombia also reports one of the highest NEET rates in the OECD. Yet the label ``NINI'' bundles very different situations: young mothers doing full-time unpaid care, recent high-school graduates waiting to enrol, unemployed job seekers, people with disabilities, and a residual group that is genuinely disconnected. This note (i) summarises what is known, (ii) proposes a measurement framework that decomposes the NINI stock into economically meaningful groups and separates transitory from persistent spells, (iii) lists the open questions and puzzles, (iv) states competing explanations of \emph{why} young people become NINIs, with a prediction that distinguishes each, (v) catalogues vocational-education and other policy changes that offer variation to test them, (vi) reviews the academic, official and international literature, including a full review of the central bank's synthetic-cohort study, and (vii) maps the available data and a first empirical step. The main finding of the literature review is that the Colombian evidence is thin and almost entirely descriptive or correlational: no study identifies causal determinants or consequences of NINI status, and no Colombian experiment uses NINI status as an outcome.
 \end{abstract}
 
 \noindent\fbox{\parbox{\dimexpr\linewidth-2\fboxsep-2\fboxrule}{\small
@@ -268,6 +268,61 @@ Explanation & Prediction that sets it apart & Variation / test & Data \\
 \paragraph{First step.} Before any causal design, the descriptive decomposition (Section~\ref{sec:plan}) plus an individual-level model of NINI status by type---which the central bank paper does not estimate---already rules some explanations in or out. For example, if most female NINIs are in the care group and the jump at 16--18 is concentrated among graduates under 18, E4 and E3 deserve causal designs before E1.
 
 % ==================================================================
+\section{Policy changes and vocational education: candidate sources of variation}\label{sec:policy}
+% ==================================================================
+
+Colombia changed many rules that sit exactly on the school-to-work margin. Table~\ref{tab:policy} lists the most relevant ones, the explanation in Table~\ref{tab:why} they speak to, and the variation they offer. Two findings from the policy review stand out. First, \textbf{no Colombian evaluation of any of these policies uses NINI status as an outcome} \likely\ (none found in English or Spanish searches). Second, the OECD reports an average graduation age from vocational upper secondary in Colombia of 16, against 22 in the OECD \fact\ \citep{oecd2022vet}: the 16--18 NINI jump coincides with leaving upper secondary, so policies acting in grades 10--11 or just after graduation are on the relevant margin.
+
+All facts in the table come from search snippets of official and press sources (November 2026) and should be checked against the legal texts; items marked \verify\ are uncertain.
+
+\clearpage
+\begingroup\small\setlength{\tabcolsep}{3pt}
+\begin{longtable}{P{2.6cm}P{4.0cm}P{0.9cm}P{3.4cm}P{3.1cm}P{1.2cm}}
+\caption{Policy changes affecting the school-to-work transition}\label{tab:policy}\\
+\toprule
+Policy & Date and rule & Expl. & Exploitable variation & Existing evidence & Prom. \\
+\midrule
+\endfirsthead
+\toprule
+Policy & Date and rule & Expl. & Exploitable variation & Existing evidence & Prom. \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+\multicolumn{6}{l}{\textit{Vocational education and training}}\\
+J\'ovenes en Acci\'on redesign; Renta Joven & DPS Res.\ 01970 (Nov 2012): transfer conditional on SENA or tertiary enrolment for poor secondary graduates, SISBEN-based. Replaced by Renta Joven on 1 Jan 2024 (ages 14--28, secondary completed). & E1, E6 & SISBEN eligibility cut-off (RD); municipal phase-in \verify & RD: eligibility raises SENA enrolment by 8--13 pp \citep{gamboa2021}. NINI outcome not studied. & High \\
+Articulation of upper secondary with SENA (double certification, grades 10--11); Bogot\'a \textit{Media Fortalecida} & School-by-school adoption from the early 2000s \verify; Bogot\'a Project 891 (2012--2016), $\approx$85,000 students by 2015 and an optional grade 12 in 21 schools. & E6, E3 & Staggered adoption by school (staggered DiD on graduates' later enrolment, work and NINI status). & DNP evaluation compares participants and non-participants (method unknown); no causal study found. & High \\
+Apprenticeship contract & Law 789 of 2002: firms with $\geq$15 workers must hire apprentices; stipend 75\% of minimum wage, 100\% if prior-year unemployment $<$10\%. Law 2466 of 2025: apprenticeship becomes a labour contract (75\%/100\%), monetisation at 1.5 minimum wages per missing apprentice. & E3, E6 & Firm-size threshold; unemployment-triggered stipend rule; 2025 reform date. & RD at the 15-worker threshold for firm outcomes \citep{ospino2018}. SENA reports 392,056 apprentices in 2024 and 379,800 in 2025 (disputed). & Med.--High \\
+SENA expansion & Instructors rose from 6,166 to 18,688 (2003--2010); training hours more than doubled (2002--2005); large virtual-course expansion. & E6 & Municipal variation in SENA supply over time \verify\ (series not located). & No causal study found. & Medium \\
+\newpage
+\multicolumn{6}{l}{\textit{Schooling}}\\
+Repeal of the 5\% repetition cap & Decree 230 of 2002 required $\geq$95\% promotion; Decree 1290 of 2009 removed the cap from the 2010 school year. & E5 & School-level change in retention rates (DiD). & Retention raised same-year dropout, most at grades 9 and 11 \citep{ferreira2020}. Destination of dropouts (work vs.\ NINI) unknown. & High \\
+Free public schooling & Decree 4807 of 2011: free grades 0--11 nationwide from 2012; earlier local schemes (Bogot\'a 2004 for the poorest SISBEN level). & E1, E5 & Pre-existing local free schooling as dose; Bogot\'a SISBEN cut-off. & RD for Bogot\'a \citep{barrera2007}; national reform not evaluated. & Medium \\
+Full school day (\textit{Jornada \'Unica}) & Law 1753 of 2015 art.\ 57; Decrees 501 of 2016 and 2105 of 2017; phased in by school, campus and zone. & E5 & Staggered adoption by school. & Earlier full-day schooling raised test scores $\approx$0.1 SD \citep{hincapie2016}; nothing on dropout or NINI. & Medium \\
+Tertiary financing & Ser Pilo Paga (2014--2018: Saber 11 and SISBEN cut-offs); Generaci\'on E (2019); Matr\'icula Cero (2020--21); Law 2307 of 2023 (free public undergraduate tuition). & E1 & Score and SISBEN cut-offs (RD); timing of free tuition by university type. & Ser Pilo Paga raised immediate college enrolment substantially \citep{londono2020}; affects high scorers, not typical NINIs. Others not evaluated. & Medium \\
+\midrule
+\multicolumn{6}{l}{\textit{Labour-market rules}}\\
+Military ID card (\textit{libreta militar}), men only & Law 1738 of 2014: not required for an undergraduate degree. Law 1780 of 2016 art.\ 20: 18 months to define military status once hired; Law 1861 of 2017 art.\ 42: employers may not require it before hiring. & E3 & Men vs.\ women aged 18--24, before vs.\ after 2014/2017 (triple difference by age). & Only a master's thesis found (results not seen). & Medium \\
+Youth hiring incentives (ages 18--28) & Law 1780 of 2016 art.\ 7: no family-fund contributions in the first year for new hires aged 18--28 if headcount rises. Law 2155 of 2021 art.\ 24 and Decree 1399 of 2021: subsidy of 25\% of the minimum wage per additional young worker, up to 12 payments, until about 2023 \verify. & E3 & Age discontinuities at 18 and 28/29, before vs.\ after. & No evaluation found. & Medium \\
+Minimum wage & +16\% in 2023 and further large increases \verify. & E3 & Minimum-wage bite (Kaitz index) by city and age. & Minimum-wage effects on informality are largest for youth, women and the less educated \citep{banrep1104}. & Medium \\
+\midrule
+\multicolumn{6}{l}{\textit{Care and transfers}}\\
+Early-childhood centres (De Cero a Siempre / CDI) & Rapid expansion of comprehensive-care places 2011--2013; Law 1804 of 2016. & E4 & Place growth by municipality $\times$ young women with vs.\ without children aged 0--5. & ELCA-based evaluation of child outcomes \citep{uniandes2017}; maternal labour only in a master's thesis. & High \\
+J\'ovenes en Paz & Law 2294 of 2023 art.\ 348; Decree 1649 of 2023: up to COP 1 million per month for ages 14--28 in prioritised territories; target $\approx$100,000 youth. & E1 & Territorial prioritisation; eligibility rules. & No evaluation found. & Medium \\
+Sac\'udete; adolescent work rules; child-marriage ban & Law 2231 of 2022 (framework law, no transfer); Law 1098 of 2006 (work at 15--17 requires a labour-inspector permit); Law 2447 of 2025 (bans marriage and unions under 18). & E3, E4 & Weak or too recent. & --- & Low \\
+\end{longtable}
+\endgroup
+
+\paragraph{Descriptive evidence to collect first.} Because national reforms lack a clean control group in a repeated cross-section, the first pass should use \emph{eligible vs.\ ineligible} comparisons within the GEIH:
+\begin{enumerate}
+\item NINI rates by single year of age, sex and completed level, plotted in event time around 2010 (repetition cap), 2012 (free schooling, J\'ovenes en Acci\'on redesign), 2014--2017 (military card rules), 2021 (youth hiring subsidy), 2023 (minimum wage, free tuition) and 2025 (apprenticeship reform).
+\item Men vs.\ women aged 18--24 around the military-card changes; ages 17 vs.\ 18 and 28 vs.\ 29 around the youth hiring incentives.
+\item Young women with vs.\ without children aged 0--5 in departments with fast vs.\ slow growth of early-childhood places.
+\item With administrative data, school-level adoption of SENA articulation (SIMAT) against graduates' later SENA/tertiary enrolment (SPADIES) and formal work (PILA).
+\end{enumerate}
+A visible break in the eligible group but not in the comparison group is the signal that a policy deserves a full causal design.
+
+% ==================================================================
 \section{Literature review}\label{sec:lit}
 % ==================================================================
 
@@ -415,9 +470,12 @@ Using GEIH 2022--2025 (redesigned survey) plus back-cast series:
 \item Produce a sensitivity table: broad vs.\ strict definition; ages 14--28, 15--28, 15--24 and 18--24; national vs.\ 13 cities.
 \item Validate the care group with ENUT hours.
 \item Plot the age profile 14--28 by sex and completed level, to test whether the 16--18 jump coincides with graduation age (Q2).
+\item Replicate the seven-city series of \citet{lasso2026} and extend it nationally and to 23 cities.
+\item Estimate an individual-level multinomial model of NINI type (Table~\ref{tab:typology}) on personal and household characteristics, using predetermined socioeconomic proxies (household head's education, estrato) instead of current income.
+\item Produce the event-time and eligible-vs-ineligible plots listed at the end of Section~\ref{sec:policy}.
 \end{enumerate}
 
-\noindent\textbf{What this stage answers.} Whether the gender paradox is mostly care (Q1); whether the 16--18 jump is a graduation-age artefact (Q2); and how much of the gap with the OECD is purely definitional (Q5). The answers determine which question deserves a causal design.
+\noindent\textbf{What this stage answers.} Whether the gender paradox is mostly care (Q1); whether the 16--18 jump is a graduation-age artefact (Q2); how much of the gap with the OECD is purely definitional (Q5); and which policy changes in Table~\ref{tab:policy} leave a visible break in the eligible group. The answers determine which explanation in Table~\ref{tab:why} deserves a causal design.
 
 \subsection{Stage 2 -- Candidate causal designs (to be selected after Stage 1)}
 
@@ -429,6 +487,10 @@ Using GEIH 2022--2025 (redesigned survey) plus back-cast series:
 Design & Idea & Main risk \\
 \midrule
 Re-analysis of existing RCTs & Use J\'ovenes en Acci\'on / Familias en Acci\'on randomisation with disaggregated NINI status as outcome & Access to original data; outcome availability \\
+SISBEN RD of the 2012 J\'ovenes en Acci\'on / Renta Joven transfer & Extend \citet{gamboa2021} from SENA enrolment to NINI status and formal work (PILA) & Access to SISBEN scores linked to outcomes \\
+Repetition-cap repeal (2010) & Extend \citet{ferreira2020}: follow induced dropouts into work vs.\ NINI (SIMAT--PILA) & Linkage; school-level confounders \\
+Staggered SENA articulation & Staggered DiD by school adoption on graduates' NINI status & Endogenous adoption; coverage data \\
+Military-card rules & Triple difference: men vs.\ women, ages 18--24 vs.\ older, before vs.\ after 2014/2017 & Concurrent shocks to young men \\
 Eligibility cut-offs & RD around SISBEN thresholds of youth programmes; outcome: NINI status in GEIH-linked or administrative data & Linking eligibility to outcomes \\
 Childcare supply shocks & Staggered expansion of early-childhood centres (CDIs) by municipality as a shock to young mothers' care constraint & Endogenous placement \\
 Graduation-age discontinuity & Compare youths born just before/after school-entry cut-offs, who graduate before or after 18 & Cut-off enforcement; data on birth month \\
